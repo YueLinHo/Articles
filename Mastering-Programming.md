@@ -74,7 +74,7 @@ E.g. see a bug on mobile, reproduce it with curl
 當回報出錯誤時，找出最簡短的重現步驟。當把錯誤離析出來後，找到最短的測試案例。當使用新的 API 時，從最基本的範例開始。「這些部分應該無關緊要吧」，錯誤假設的代價只有出事的時候才能察覺。
 舉例：在手機上發現錯誤，用 curl 重現他。
 
-###Multiple scales. 多重規模
+###Multiple scales. 多重尺度
 Move between scales freely. Maybe this is a design problem, not a testing problem. Maybe it is a people problem, not a technology problem [cheating, this is always true].
 
 時時在不同尺度中遊走。「這也許是設計問題，而不是測試問題」。「也許這是人的問題，而不是技術問題」（這有點作弊，因為永遠都是人的問題）。
